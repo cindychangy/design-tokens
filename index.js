@@ -1,5 +1,5 @@
-const color = require('./color.json');
-const typography = require('./typography.json');
+const color = require('src/color.json');
+const typography = require('src/typography.json');
 
 module.exports = {
   color,
