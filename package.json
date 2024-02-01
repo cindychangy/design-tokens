@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cindychangy/ewc-tokens/issues"
   },
-  "homepage": "https://github.com/cindychangy/ewc-tokens#readme"
+  "homepage": "https://github.com/cindychangy/ewc-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
 }
