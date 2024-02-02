@@ -1,0 +1,10 @@
+{
+  "color": {
+    "text": {
+      "highlight": {
+        "value": "{color.lightTeal}",
+        "comment": "Color for highlighted paragraph text"
+      }
+    }
+  }
+}

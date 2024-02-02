@@ -1,0 +1,6 @@
+{
+  "spacing": {
+    "small": { "value": "20px" },
+    "medium": { "value": "40px" }
+  }
+}
