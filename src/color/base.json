@@ -2,25 +2,15 @@
   "color": {
     "midnight": {
       "value": "#20377d",
-      "type": "other"
+      "type": "color"
     },
     "lightTeal": {
       "value": "#7de2d1",
-      "type": "other"
+      "type": "color"
     },
     "yellow": {
       "value": "#fec514",
-      "type": "other"
-    },
-    "black": {
-      "value": "#000000",
-      "type": "other"
-    },
-    "color": {
-      "white": {
-        "value": "#ffffff",
-        "type": "color"
-      }
+      "type": "color"
     }
   },
   "$themes": [],
