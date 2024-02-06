@@ -1,6 +1,18 @@
 {
   "spacing": {
-    "small": { "value": "20px" },
-    "medium": { "value": "40px" }
+    "small": {
+      "value": "20px",
+      "type": "other"
+    },
+    "medium": {
+      "value": "40px",
+      "type": "other"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "spacing"
+    ]
   }
 }
