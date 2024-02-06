@@ -1,0 +1,24 @@
+{
+  "spacing": {
+    "small": {
+      "value": "20px",
+      "type": "other"
+    },
+    "medium": {
+      "value": "40px",
+      "type": "other"
+    },
+    "colors": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "spacing"
+    ]
+  }
+}
