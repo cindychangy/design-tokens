@@ -1,8 +1,32 @@
 {
   "color": {
-    "midnight": { "value": "#20377d" },
-    "lightTeal": { "value": "#7de2d1" },
-    "yellow": { "value": "#fec514" },
-    "black": { "value": "#000000" }
+    "midnight": {
+      "value": "#20377d",
+      "type": "other"
+    },
+    "lightTeal": {
+      "value": "#7de2d1",
+      "type": "other"
+    },
+    "yellow": {
+      "value": "#fec514",
+      "type": "other"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "other"
+    },
+    "color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "color"
+    ]
   }
 }
