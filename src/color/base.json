@@ -1,22 +1,7 @@
 {
   "color": {
-    "midnight": {
-      "value": "#20377d",
-      "type": "color"
-    },
-    "lightTeal": {
-      "value": "#7de2d1",
-      "type": "color"
-    },
-    "yellow": {
-      "value": "#fec514",
-      "type": "color"
-    }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "color"
-    ]
+    "midnight": { "value": "#20377d" },
+    "lightTeal": { "value": "#7de2d1" },
+    "yellow": { "value": "#fec514" }
   }
 }
