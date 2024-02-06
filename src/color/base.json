@@ -11,6 +11,10 @@
     "yellow": {
       "value": "#fec514",
       "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
     }
   },
   "$themes": [],
