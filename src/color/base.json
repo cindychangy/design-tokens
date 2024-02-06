@@ -2,7 +2,6 @@
   "color": {
     "midnight": { "value": "#20377d" },
     "lightTeal": { "value": "#7de2d1" },
-    "yellow": { "value": "#fec514" },
-    "black": { "value": "#000000" }
+    "yellow": { "value": "#fec514" }
   }
 }
